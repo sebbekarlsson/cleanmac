@@ -1,0 +1,8 @@
+pkill -f vim
+pkill -f chrome
+pkill -v virtualbox
+pkill -v sass
+pkill -f safari
+pkill -f cisco
+pkill -f gimp
+pkill -f lync
