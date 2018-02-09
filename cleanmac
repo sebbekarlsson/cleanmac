@@ -1,6 +1,7 @@
 #!/bin/bash
 
 pkill -f vim
+pkill -f chromium
 pkill -f chrome
 pkill -v virtualbox
 pkill -v sass
@@ -8,3 +9,12 @@ pkill -f safari
 pkill -f cisco
 pkill -f gimp
 pkill -f lync
+pkill -f spotify
+pkill -f python
+pkill -f ruby
+pkill -f evernote
+pkill -f finder
+
+wait
+
+pkill -f terminal
